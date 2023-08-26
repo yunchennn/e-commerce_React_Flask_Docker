@@ -1,0 +1,53 @@
+.footer {
+    width: 100%;
+    height: 250px;
+    background-image: url('../images/background2.jpg');
+    position:flex;
+    left:0;
+    bottom:0;
+    right:0;
+    color: black;
+    font: italic small-caps bold 16px/2 cursive;
+  }
+  
+  .infos {
+    height: 80%;
+    text-align:left;
+    margin-left: 50px;
+    display: flex;
+    
+  }
+  .infos img {
+    height: 250px; 
+    margin-right: 10px; 
+  }
+  .infos h1 {
+    font-size: 24px;
+  }
+
+  .infos p {
+    font-size: 16px;
+  }
+  
+  .infos a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+
+  }
+
+  .each{
+    padding-right: 20px;
+    padding-top: 20px;
+  }
+  .infos a{
+    display: flex;
+    font-size: 16px;
+    
+  }
+  .footimage{
+    height: 20%;
+  }
+  .footimage img{
+    height: 80%;
+  }

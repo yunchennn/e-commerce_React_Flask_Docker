@@ -1,0 +1,18 @@
+.grid{
+    display: flex;
+    font-family:'Courier New', Courier, monospace;
+    margin: 20px;
+    text-align: left;
+    
+}
+.maincata{
+    color: black;
+    font-weight:bold;
+}
+.grid a{
+    font-size: 16px;
+    margin:0%
+}
+.grid .item{
+    margin: 0%;
+}

@@ -1,0 +1,35 @@
+.checkoutitem{
+    display: flex;
+    width: 40vw;
+    margin: 20px;
+    justify-content: space-between;
+    margin-left: 100px;
+    padding: 1vw 2rem 0;
+}
+.checkoutitem img{
+    width: 150px;
+    margin: 20px;
+    
+}
+.checkoutitem .info{
+    margin: 20px;
+    display:flex;
+    flex:1 1 auto;
+    justify-content: space-between;
+    text-align:left;
+}
+
+.checkoutitem .price{
+    text-align: right
+}
+.totalprice{
+    padding-left: 100px;
+}
+
+.subtotal{
+    width: 100%;
+    display:flex;
+    flex:1 1 auto;
+    justify-content: space-between;
+    text-align:center;
+}

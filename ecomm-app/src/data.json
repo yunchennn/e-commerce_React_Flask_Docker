@@ -1,0 +1,162 @@
+{
+    "coffee": [
+        {
+            "id": 1,
+            "name": "stony",
+            "productName": "STONY",
+            "price": 21.0,
+            "productImage": "/images/coffee/stony_t.png",
+            "productImage2": "/images/coffee/stony.png"
+        },
+        {
+            "id": 2,
+            "name": "brook",
+            "productName": "BROOK",
+            "price": 21.0,
+            "productImage": "/images/coffee/brook_t.png",
+            "productImage2": "/images/coffee/brook.png"
+        },
+        {
+            "id": 3,
+            "name": "threev",
+            "productName": "THREE-V",
+            "price": 17.0,
+            "productImage": "/images/coffee/threev_t.png",
+            "productImage2": "/images/coffee/threev.png"
+        },
+        {
+            "id": 4,
+            "name": "ronkonkoma",
+            "productName": "RONKONKOMA",
+            "price": 18.0,
+            "productImage": "/images/coffee/ronkonkoma_t.png",
+            "productImage2": "/images/coffee/ronkonkoma.png"
+        },
+        {
+            "id": 5,
+            "name": "sufflok",
+            "productName": "SUFFLOK",
+            "price": 15.0,
+            "productImage": "/images/coffee/sufflok_t.png",
+            "productImage2": "/images/coffee/sufflok.png"
+        },
+        {
+            "id": 6,
+            "name": "montauk",
+            "productName": "MONTAUK",
+            "price": 19.0,
+            "productImage": "/images/coffee/montauk_t.png",
+            "productImage2": "/images/coffee/montauk.png"
+        },
+        {
+            "id": 7,
+            "name": "colombia",
+            "productName": "COLOMBIA",
+            "price": 20.0,
+            "productImage": "/images/coffee/colombia_t.png",
+            "productImage2": "/images/coffee/colombia.png"
+        },
+        {
+            "id": 8,
+            "name": "burundi",
+            "productName": "BURUNDI",
+            "price": 18.0,
+            "productImage": "/images/coffee/burundi_t.png",
+            "productImage2": "/images/coffee/burundi.png"
+        },
+        {
+            "id": 9,
+            "name": "brazil",
+            "productName": "BRAZIL",
+            "price": 18.0,
+            "productImage": "/images/coffee/brazil_t.png",
+            "productImage2": "/images/coffee/brazil.png"
+        }
+    ],
+    "goods": [
+        {
+            "id": 10,
+            "name": "mug",
+            "productName": "MUG",
+            "price": 11.0,
+            "productImage": "/images/goods/mug_t.png",
+            "productImage2": "/images/goods/mug.png"
+        },
+        {
+            "id": 11,
+            "name": "tshirt-b",
+            "productName": "T-SHIRT/BLACK",
+            "price": 32.0,
+            "productImage": "/images/goods/tshirt-b_t.png",
+            "productImage2": "/images/goods/tshirt-b.png"
+        },
+        {
+            "id": 12,
+            "name": "tshirt-w",
+            "productName": "T-SHIRT/WHITE",
+            "price": 32.0,
+            "productImage": "/images/goods/tshirt-w_t.png",
+            "productImage2": "/images/goods/tshirt-w.png"
+        },
+        {
+            "id": 13,
+            "name": "thermos",
+            "productName": "THERMOS",
+            "price": 64.0,
+            "productImage": "/images/goods/vacuum_t.png",
+            "productImage2": "/images/goods/vacuum.png"
+        }
+    ],
+    "gears": [
+        {
+            "id": 14,
+            "name": "aeropress",
+            "productName": "AEROPRESS",
+            "price": 50.0,
+            "productImage": "/images/gears/aeropress_t.png",
+            "productImage2": "/images/gears/aeropress.png"
+        },
+        {
+            "id": 15,
+            "name": "dripper-w",
+            "productName": "DRIPPER/WHITE",
+            "price": 50.0,
+            "productImage": "/images/gears/dripper-w_t.png",
+            "productImage2": "/images/gears/dripper-w.png"
+        },
+        {
+            "id": 16,
+            "name": "dripper-b",
+            "productName": "DRIPPER/BLUE",
+            "price": 50.0,
+            "productImage": "/images/gears/dripper-b_t.png",
+            "productImage2": "/images/gears/dripper-b.png"
+        },
+        {
+            "id": 17,
+            "name": "scale",
+            "productName": "SCALE",
+            "price": 50.0,
+            "productImage": "/images/gears/scale_t.png",
+            "productImage2": "/images/gears/scale.png"
+        }
+    ],
+    "bundles": [
+        {
+            "id": 18,
+            "name": "bundle1",
+            "productName": "BUNDLE1",
+            "price": 32.0,
+            "productImage": "/images/bundles/bundle1_t.png",
+            "productImage2": "/images/bundles/bundle1.png"
+        },
+        {
+            "id": 19,
+            "name": "bundle2",
+            "productName": "BUNDLE2",
+            "price": 32.0,
+            "productImage": "/images/bundles/bundle2_t.png",
+            "productImage2": "/images/bundles/bundle2.png"
+        }
+    ]
+}
